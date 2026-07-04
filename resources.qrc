@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="shops/photo.png">resources/images/shops/photo.png</file>
+        <file alias="shops/teahouse.png">resources/images/shops/teahouse.png</file>
+        <file alias="shops/seafood.png">resources/images/shops/seafood.png</file>
+        <file alias="shops/jewelry.png">resources/images/shops/jewelry.png</file>
+        <file alias="shops/tropical_fish.png">resources/images/shops/tropical_fish.png</file>
+        <file alias="shops/florist.png">resources/images/shops/florist.png</file>
+        <file alias="shops/take_out.png">resources/images/shops/take_out.png</file>
+        <file alias="shops/laundry.png">resources/images/shops/laundry.png</file>
+        <file alias="shops/dim_sum.png">resources/images/shops/dim_sum.png</file>
+        <file alias="shops/antiques.png">resources/images/shops/antiques.png</file>
+        <file alias="shops/factory.png">resources/images/shops/factory.png</file>
+        <file alias="shops/restaurant.png">resources/images/shops/restaurant.png</file>
+        <file alias="board/chinatown_board_porcelain.jpg">resources/images/board/chinatown_board_porcelain.jpg</file>
+        <file alias="board/chinatown_board_lantern_city.png">resources/images/board/chinatown_board_lantern_city.png</file>
+        <file alias="board/chinatown_board_emerald.jpg">resources/images/board/chinatown_board_emerald.jpg</file>
+        <file alias="board/chinatown_board_black_gold.jpg">resources/images/board/chinatown_board_black_gold.jpg</file>
+        <file alias="board/chinatown_board_qingxiao_dragon.jpg">resources/images/board/chinatown_board_qingxiao_dragon.jpg</file>
+        <file alias="avatars/player1.png">resources/images/avatars/player1.png</file>
+        <file alias="avatars/player2.png">resources/images/avatars/player2.png</file>
+        <file alias="avatars/player3.png">resources/images/avatars/player3.png</file>
+        <file alias="avatars/player4.png">resources/images/avatars/player4.png</file>
+        <file alias="avatars/player5.png">resources/images/avatars/player5.png</file>
+        <file alias="ui/cover.png">resources/images/ui/cover.png</file>
+    </qresource>
+    <qresource prefix="/maps">
+        <file alias="chinatown_85.json">resources/maps/chinatown_85.json</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file alias="bgm_round_1.mp3">resources/audio/bgm_round_1.mp3</file>
+        <file alias="bgm_round_2.mp3">resources/audio/bgm_round_2.mp3</file>
+        <file alias="bgm_round_3.mp3">resources/audio/bgm_round_3.mp3</file>
+    </qresource>
+</RCC>
