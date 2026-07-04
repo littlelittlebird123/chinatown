@@ -23,10 +23,10 @@
 ## 项目结构
 
 ```
-core/           游戏核心逻辑
-ui/             图形界面
-network/        网络通信模块
-server/         服务器程序
+src/ core/           游戏核心逻辑
+     ui/             图形界面
+     network/        网络通信模块
+     server/         服务器程序
 resources/      图片、地图、音乐等资源
 ```
 
