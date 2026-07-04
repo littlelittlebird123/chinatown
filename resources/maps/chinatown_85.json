@@ -1,0 +1,1014 @@
+{
+  "name": "Chinatown 85 large no-background layout",
+  "tileSizeHint": 78,
+  "tiles": [
+    {
+      "id": 1,
+      "x": 225,
+      "y": 93,
+      "district": 1,
+      "baseValue": 1000,
+      "adjacentIds": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 2,
+      "x": 343,
+      "y": 93,
+      "district": 1,
+      "baseValue": 1000,
+      "adjacentIds": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": 3,
+      "x": 225,
+      "y": 213,
+      "district": 1,
+      "baseValue": 1000,
+      "adjacentIds": [
+        4,
+        1,
+        7
+      ]
+    },
+    {
+      "id": 4,
+      "x": 344,
+      "y": 212,
+      "district": 1,
+      "baseValue": 1000,
+      "adjacentIds": [
+        3,
+        5,
+        2,
+        8
+      ]
+    },
+    {
+      "id": 5,
+      "x": 461,
+      "y": 212,
+      "district": 1,
+      "baseValue": 1000,
+      "adjacentIds": [
+        4,
+        9
+      ]
+    },
+    {
+      "id": 6,
+      "x": 108,
+      "y": 332,
+      "district": 1,
+      "baseValue": 1000,
+      "adjacentIds": [
+        7,
+        10
+      ]
+    },
+    {
+      "id": 7,
+      "x": 225,
+      "y": 332,
+      "district": 1,
+      "baseValue": 1000,
+      "adjacentIds": [
+        6,
+        8,
+        3,
+        11
+      ]
+    },
+    {
+      "id": 8,
+      "x": 344,
+      "y": 332,
+      "district": 1,
+      "baseValue": 1000,
+      "adjacentIds": [
+        7,
+        9,
+        4,
+        12
+      ]
+    },
+    {
+      "id": 9,
+      "x": 462,
+      "y": 332,
+      "district": 1,
+      "baseValue": 1000,
+      "adjacentIds": [
+        8,
+        5
+      ]
+    },
+    {
+      "id": 10,
+      "x": 108,
+      "y": 454,
+      "district": 1,
+      "baseValue": 1000,
+      "adjacentIds": [
+        11,
+        6,
+        13
+      ]
+    },
+    {
+      "id": 11,
+      "x": 226,
+      "y": 453,
+      "district": 1,
+      "baseValue": 1000,
+      "adjacentIds": [
+        10,
+        12,
+        7,
+        14
+      ]
+    },
+    {
+      "id": 12,
+      "x": 344,
+      "y": 453,
+      "district": 1,
+      "baseValue": 1000,
+      "adjacentIds": [
+        11,
+        8,
+        15
+      ]
+    },
+    {
+      "id": 13,
+      "x": 108,
+      "y": 572,
+      "district": 1,
+      "baseValue": 1000,
+      "adjacentIds": [
+        14,
+        10
+      ]
+    },
+    {
+      "id": 14,
+      "x": 226,
+      "y": 573,
+      "district": 1,
+      "baseValue": 1000,
+      "adjacentIds": [
+        13,
+        15,
+        11
+      ]
+    },
+    {
+      "id": 15,
+      "x": 344,
+      "y": 572,
+      "district": 1,
+      "baseValue": 1000,
+      "adjacentIds": [
+        14,
+        12
+      ]
+    },
+    {
+      "id": 16,
+      "x": 626,
+      "y": 92,
+      "district": 2,
+      "baseValue": 1000,
+      "adjacentIds": [
+        17,
+        19
+      ]
+    },
+    {
+      "id": 17,
+      "x": 743,
+      "y": 92,
+      "district": 2,
+      "baseValue": 1000,
+      "adjacentIds": [
+        16,
+        18,
+        20
+      ]
+    },
+    {
+      "id": 18,
+      "x": 860,
+      "y": 92,
+      "district": 2,
+      "baseValue": 1000,
+      "adjacentIds": [
+        17,
+        21
+      ]
+    },
+    {
+      "id": 19,
+      "x": 626,
+      "y": 212,
+      "district": 2,
+      "baseValue": 1000,
+      "adjacentIds": [
+        20,
+        16,
+        22
+      ]
+    },
+    {
+      "id": 20,
+      "x": 742,
+      "y": 212,
+      "district": 2,
+      "baseValue": 1000,
+      "adjacentIds": [
+        19,
+        21,
+        17,
+        23
+      ]
+    },
+    {
+      "id": 21,
+      "x": 860,
+      "y": 212,
+      "district": 2,
+      "baseValue": 1000,
+      "adjacentIds": [
+        20,
+        18
+      ]
+    },
+    {
+      "id": 22,
+      "x": 626,
+      "y": 332,
+      "district": 2,
+      "baseValue": 1000,
+      "adjacentIds": [
+        23,
+        19,
+        24
+      ]
+    },
+    {
+      "id": 23,
+      "x": 742,
+      "y": 332,
+      "district": 2,
+      "baseValue": 1000,
+      "adjacentIds": [
+        22,
+        20,
+        25
+      ]
+    },
+    {
+      "id": 24,
+      "x": 626,
+      "y": 452,
+      "district": 2,
+      "baseValue": 1000,
+      "adjacentIds": [
+        25,
+        22,
+        26
+      ]
+    },
+    {
+      "id": 25,
+      "x": 742,
+      "y": 452,
+      "district": 2,
+      "baseValue": 1000,
+      "adjacentIds": [
+        24,
+        23,
+        27
+      ]
+    },
+    {
+      "id": 26,
+      "x": 626,
+      "y": 572,
+      "district": 2,
+      "baseValue": 1000,
+      "adjacentIds": [
+        27,
+        24
+      ]
+    },
+    {
+      "id": 27,
+      "x": 743,
+      "y": 572,
+      "district": 2,
+      "baseValue": 1000,
+      "adjacentIds": [
+        26,
+        25
+      ]
+    },
+    {
+      "id": 28,
+      "x": 1034,
+      "y": 92,
+      "district": 3,
+      "baseValue": 1000,
+      "adjacentIds": [
+        29,
+        31
+      ]
+    },
+    {
+      "id": 29,
+      "x": 1154,
+      "y": 92,
+      "district": 3,
+      "baseValue": 1000,
+      "adjacentIds": [
+        28,
+        30,
+        32
+      ]
+    },
+    {
+      "id": 30,
+      "x": 1272,
+      "y": 92,
+      "district": 3,
+      "baseValue": 1000,
+      "adjacentIds": [
+        29,
+        33
+      ]
+    },
+    {
+      "id": 31,
+      "x": 1034,
+      "y": 212,
+      "district": 3,
+      "baseValue": 1000,
+      "adjacentIds": [
+        32,
+        28,
+        34
+      ]
+    },
+    {
+      "id": 32,
+      "x": 1154,
+      "y": 212,
+      "district": 3,
+      "baseValue": 1000,
+      "adjacentIds": [
+        31,
+        33,
+        29,
+        35
+      ]
+    },
+    {
+      "id": 33,
+      "x": 1272,
+      "y": 212,
+      "district": 3,
+      "baseValue": 1000,
+      "adjacentIds": [
+        32,
+        30,
+        36
+      ]
+    },
+    {
+      "id": 34,
+      "x": 1034,
+      "y": 332,
+      "district": 3,
+      "baseValue": 1000,
+      "adjacentIds": [
+        35,
+        31
+      ]
+    },
+    {
+      "id": 35,
+      "x": 1154,
+      "y": 332,
+      "district": 3,
+      "baseValue": 1000,
+      "adjacentIds": [
+        34,
+        36,
+        32,
+        37
+      ]
+    },
+    {
+      "id": 36,
+      "x": 1272,
+      "y": 332,
+      "district": 3,
+      "baseValue": 1000,
+      "adjacentIds": [
+        35,
+        33,
+        38
+      ]
+    },
+    {
+      "id": 37,
+      "x": 1154,
+      "y": 452,
+      "district": 3,
+      "baseValue": 1000,
+      "adjacentIds": [
+        38,
+        35,
+        40
+      ]
+    },
+    {
+      "id": 38,
+      "x": 1271,
+      "y": 452,
+      "district": 3,
+      "baseValue": 1000,
+      "adjacentIds": [
+        37,
+        39,
+        36,
+        41
+      ]
+    },
+    {
+      "id": 39,
+      "x": 1390,
+      "y": 452,
+      "district": 3,
+      "baseValue": 1000,
+      "adjacentIds": [
+        38,
+        42
+      ]
+    },
+    {
+      "id": 40,
+      "x": 1154,
+      "y": 572,
+      "district": 3,
+      "baseValue": 1000,
+      "adjacentIds": [
+        41,
+        37
+      ]
+    },
+    {
+      "id": 41,
+      "x": 1271,
+      "y": 572,
+      "district": 3,
+      "baseValue": 1000,
+      "adjacentIds": [
+        40,
+        42,
+        38
+      ]
+    },
+    {
+      "id": 42,
+      "x": 1389,
+      "y": 572,
+      "district": 3,
+      "baseValue": 1000,
+      "adjacentIds": [
+        41,
+        39
+      ]
+    },
+    {
+      "id": 43,
+      "x": 1549,
+      "y": 92,
+      "district": 4,
+      "baseValue": 1000,
+      "adjacentIds": [
+        44,
+        47
+      ]
+    },
+    {
+      "id": 44,
+      "x": 1667,
+      "y": 92,
+      "district": 4,
+      "baseValue": 1000,
+      "adjacentIds": [
+        43,
+        45,
+        48
+      ]
+    },
+    {
+      "id": 45,
+      "x": 1786,
+      "y": 92,
+      "district": 4,
+      "baseValue": 1000,
+      "adjacentIds": [
+        44,
+        46,
+        49
+      ]
+    },
+    {
+      "id": 46,
+      "x": 1904,
+      "y": 92,
+      "district": 4,
+      "baseValue": 1000,
+      "adjacentIds": [
+        45,
+        50
+      ]
+    },
+    {
+      "id": 47,
+      "x": 1549,
+      "y": 212,
+      "district": 4,
+      "baseValue": 1000,
+      "adjacentIds": [
+        48,
+        43,
+        51
+      ]
+    },
+    {
+      "id": 48,
+      "x": 1667,
+      "y": 212,
+      "district": 4,
+      "baseValue": 1000,
+      "adjacentIds": [
+        47,
+        49,
+        44,
+        52
+      ]
+    },
+    {
+      "id": 49,
+      "x": 1786,
+      "y": 212,
+      "district": 4,
+      "baseValue": 1000,
+      "adjacentIds": [
+        48,
+        50,
+        45,
+        53
+      ]
+    },
+    {
+      "id": 50,
+      "x": 1903,
+      "y": 212,
+      "district": 4,
+      "baseValue": 1000,
+      "adjacentIds": [
+        49,
+        46,
+        54
+      ]
+    },
+    {
+      "id": 51,
+      "x": 1549,
+      "y": 332,
+      "district": 4,
+      "baseValue": 1000,
+      "adjacentIds": [
+        52,
+        47
+      ]
+    },
+    {
+      "id": 52,
+      "x": 1667,
+      "y": 332,
+      "district": 4,
+      "baseValue": 1000,
+      "adjacentIds": [
+        51,
+        53,
+        48
+      ]
+    },
+    {
+      "id": 53,
+      "x": 1786,
+      "y": 332,
+      "district": 4,
+      "baseValue": 1000,
+      "adjacentIds": [
+        52,
+        54,
+        49,
+        55
+      ]
+    },
+    {
+      "id": 54,
+      "x": 1904,
+      "y": 332,
+      "district": 4,
+      "baseValue": 1000,
+      "adjacentIds": [
+        53,
+        50,
+        56
+      ]
+    },
+    {
+      "id": 55,
+      "x": 1786,
+      "y": 452,
+      "district": 4,
+      "baseValue": 1000,
+      "adjacentIds": [
+        56,
+        53,
+        57
+      ]
+    },
+    {
+      "id": 56,
+      "x": 1903,
+      "y": 452,
+      "district": 4,
+      "baseValue": 1000,
+      "adjacentIds": [
+        55,
+        54,
+        58
+      ]
+    },
+    {
+      "id": 57,
+      "x": 1786,
+      "y": 572,
+      "district": 4,
+      "baseValue": 1000,
+      "adjacentIds": [
+        58,
+        55
+      ]
+    },
+    {
+      "id": 58,
+      "x": 1903,
+      "y": 572,
+      "district": 4,
+      "baseValue": 1000,
+      "adjacentIds": [
+        57,
+        56
+      ]
+    },
+    {
+      "id": 59,
+      "x": 624,
+      "y": 781,
+      "district": 5,
+      "baseValue": 1000,
+      "adjacentIds": [
+        60,
+        61
+      ]
+    },
+    {
+      "id": 60,
+      "x": 736,
+      "y": 781,
+      "district": 5,
+      "baseValue": 1000,
+      "adjacentIds": [
+        59,
+        62
+      ]
+    },
+    {
+      "id": 61,
+      "x": 624,
+      "y": 902,
+      "district": 5,
+      "baseValue": 1000,
+      "adjacentIds": [
+        62,
+        59,
+        63
+      ]
+    },
+    {
+      "id": 62,
+      "x": 736,
+      "y": 902,
+      "district": 5,
+      "baseValue": 1000,
+      "adjacentIds": [
+        61,
+        60,
+        64
+      ]
+    },
+    {
+      "id": 63,
+      "x": 624,
+      "y": 1025,
+      "district": 5,
+      "baseValue": 1000,
+      "adjacentIds": [
+        64,
+        61,
+        66
+      ]
+    },
+    {
+      "id": 64,
+      "x": 736,
+      "y": 1025,
+      "district": 5,
+      "baseValue": 1000,
+      "adjacentIds": [
+        63,
+        65,
+        62,
+        67
+      ]
+    },
+    {
+      "id": 65,
+      "x": 850,
+      "y": 1025,
+      "district": 5,
+      "baseValue": 1000,
+      "adjacentIds": [
+        64,
+        68
+      ]
+    },
+    {
+      "id": 66,
+      "x": 624,
+      "y": 1147,
+      "district": 5,
+      "baseValue": 1000,
+      "adjacentIds": [
+        67,
+        63
+      ]
+    },
+    {
+      "id": 67,
+      "x": 736,
+      "y": 1147,
+      "district": 5,
+      "baseValue": 1000,
+      "adjacentIds": [
+        66,
+        68,
+        64,
+        69
+      ]
+    },
+    {
+      "id": 68,
+      "x": 850,
+      "y": 1147,
+      "district": 5,
+      "baseValue": 1000,
+      "adjacentIds": [
+        67,
+        65,
+        70
+      ]
+    },
+    {
+      "id": 69,
+      "x": 736,
+      "y": 1270,
+      "district": 5,
+      "baseValue": 1000,
+      "adjacentIds": [
+        70,
+        67
+      ]
+    },
+    {
+      "id": 70,
+      "x": 850,
+      "y": 1270,
+      "district": 5,
+      "baseValue": 1000,
+      "adjacentIds": [
+        69,
+        68
+      ]
+    },
+    {
+      "id": 71,
+      "x": 1192,
+      "y": 781,
+      "district": 6,
+      "baseValue": 1000,
+      "adjacentIds": [
+        72,
+        75
+      ]
+    },
+    {
+      "id": 72,
+      "x": 1306,
+      "y": 781,
+      "district": 6,
+      "baseValue": 1000,
+      "adjacentIds": [
+        71,
+        73,
+        76
+      ]
+    },
+    {
+      "id": 73,
+      "x": 1418,
+      "y": 781,
+      "district": 6,
+      "baseValue": 1000,
+      "adjacentIds": [
+        72,
+        74,
+        77
+      ]
+    },
+    {
+      "id": 74,
+      "x": 1538,
+      "y": 781,
+      "district": 6,
+      "baseValue": 1000,
+      "adjacentIds": [
+        73,
+        78
+      ]
+    },
+    {
+      "id": 75,
+      "x": 1192,
+      "y": 902,
+      "district": 6,
+      "baseValue": 1000,
+      "adjacentIds": [
+        76,
+        71,
+        79
+      ]
+    },
+    {
+      "id": 76,
+      "x": 1306,
+      "y": 902,
+      "district": 6,
+      "baseValue": 1000,
+      "adjacentIds": [
+        75,
+        77,
+        72,
+        80
+      ]
+    },
+    {
+      "id": 77,
+      "x": 1418,
+      "y": 902,
+      "district": 6,
+      "baseValue": 1000,
+      "adjacentIds": [
+        76,
+        78,
+        73,
+        81
+      ]
+    },
+    {
+      "id": 78,
+      "x": 1538,
+      "y": 902,
+      "district": 6,
+      "baseValue": 1000,
+      "adjacentIds": [
+        77,
+        74,
+        82
+      ]
+    },
+    {
+      "id": 79,
+      "x": 1192,
+      "y": 1025,
+      "district": 6,
+      "baseValue": 1000,
+      "adjacentIds": [
+        80,
+        75,
+        83
+      ]
+    },
+    {
+      "id": 80,
+      "x": 1306,
+      "y": 1025,
+      "district": 6,
+      "baseValue": 1000,
+      "adjacentIds": [
+        79,
+        81,
+        76,
+        84
+      ]
+    },
+    {
+      "id": 81,
+      "x": 1418,
+      "y": 1025,
+      "district": 6,
+      "baseValue": 1000,
+      "adjacentIds": [
+        80,
+        82,
+        77,
+        85
+      ]
+    },
+    {
+      "id": 82,
+      "x": 1538,
+      "y": 1025,
+      "district": 6,
+      "baseValue": 1000,
+      "adjacentIds": [
+        81,
+        78
+      ]
+    },
+    {
+      "id": 83,
+      "x": 1192,
+      "y": 1147,
+      "district": 6,
+      "baseValue": 1000,
+      "adjacentIds": [
+        84,
+        79
+      ]
+    },
+    {
+      "id": 84,
+      "x": 1306,
+      "y": 1147,
+      "district": 6,
+      "baseValue": 1000,
+      "adjacentIds": [
+        83,
+        85,
+        80
+      ]
+    },
+    {
+      "id": 85,
+      "x": 1418,
+      "y": 1147,
+      "district": 6,
+      "baseValue": 1000,
+      "adjacentIds": [
+        84,
+        81
+      ]
+    }
+  ],
+  "backgroundImage": "board/chinatown_board_emerald_classic.jpg",
+  "backgroundSize": {
+    "width": 2048,
+    "height": 1529
+  }
+}
